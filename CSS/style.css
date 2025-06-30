@@ -137,7 +137,7 @@ footer{padding:20px 70px;background-color: rgb(233, 231, 231);}
     #serviceHead p{font-size: 16px;}
     .about{width: calc(50% - 1*40px/2);}
     #aboutUs p{font-size: 16px;}
-    
+    .cardDiv i{font-size: 24px;}
 
 }
 
